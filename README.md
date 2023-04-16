@@ -1,4 +1,4 @@
-# SQL_Basic_Data_Querying
+# SQL_Basic_Data_Querying Project 1
 SQL Basic Data Querying Project 
 
 This is my 1st SQL project for the SQL Crash Course prvided by CoRise(https://corise.com/course/sql-crash-course), where I explore the basic queries of SQL by creating and manipulating custom tables.
